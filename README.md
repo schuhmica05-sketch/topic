@@ -103,4 +103,4 @@ $topic
 
 ## 许可证
 
-许可证尚待维护者确认，当前未添加 LICENSE，也未声明开源许可证。
+本项目采用 [MIT License](LICENSE)。
