@@ -1,0 +1,4 @@
+interface:
+  display_name: "topic"
+  short_description: "基于真实商业资料主动追问，创作面向目标受众的高曝光潜力短视频选题"
+  default_prompt: "使用 $topic，根据我的项目资料与本次目标生成短视频选题；关键事实缺失时先问，最终只交付选题、实际讲什么和依据／待补素材。"

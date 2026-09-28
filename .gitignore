@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.jsonl
+*.sqlite*
+*.zip
+__pycache__/
+_AI/
+logs/
+private/
